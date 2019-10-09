@@ -3203,14 +3203,14 @@ figcaption {
 .contact-team-pic {
     height: 150px;
     margin-bottom: 30px;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 
 .team-pic {
     width: 100%;
     height: 420px;
     margin-bottom: 40px;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 
 .team-members {
@@ -4123,8 +4123,13 @@ figcaption {
     align-items: center;
 }
 .img-partners {
-    max-width: 300px;
+    max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
 }
+
 .heading-5 {
     font-family: Montserrat, sans-serif;
     text-align: center;
